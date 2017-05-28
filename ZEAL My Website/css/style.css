@@ -1,0 +1,92 @@
+/* CSS Document */
+
+body {
+	background:url(../images/background1.jpg) top left no-repeat;
+	background-size:cover;
+}
+
+
+
+.col-md-12 {
+	margin-top:10px;
+}
+
+.logo{
+	text-align:center;
+}
+
+/*-------------- Center Navigation Links ---------------*/
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+/*-------------- Center Navigation Links ----------------*/
+.navbar-default {
+	background:none;
+	border:none;
+	margin-top:20px;
+}
+
+.navbar-default .navbar-brand {
+	color:#0c3d44;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+	color: #555;
+
+}
+
+.navbar-default .navbar-nav>li>a:link {
+	font-weight:bold;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #060;
+    background-color: none;
+}
+
+.businessLeadText {
+    text-align: center;
+    margin: 50px 0 50px 0;
+    font-weight: bold;
+    font-size: 36px;
+	color:white;
+	font-family: 'Bungee Inline', cursive;
+	text-shadow:2px 2px 2px #000066;
+}
+
+.businessIntroText {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    margin-bottom: 50px;
+	color:white;
+}
+
+footer {
+	text-align: center;
+	color:white;
+}
+
+.image {
+	margin-bottom:10px;
+	text-align:center;
+}
+
+.col-md-2 {
+	text-align:center;
+}
+
+.col-md-2 p {
+	color:white;
+}
+
+button {
+	margin-right:10px;
+}
